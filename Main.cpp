@@ -74,6 +74,8 @@ void loop() {
 
 /*
 
+dependencies: ESP-IDF from espressif & A2DP-Master from P Schatzman
+
 direct memory acces buffer:
 buffer size >
 (16bit*2stereo/4buffer)*samplerate =176400
